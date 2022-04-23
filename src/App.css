@@ -1,38 +1,61 @@
 .App {
   text-align: center;
+  margin: 0 auto;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+header {
+    position: relative;
+    margin-top: 20px;
+}
+.header-options {
+    position:absolute;
+    margin-right: 150px;
+    right:0;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.header-options > * {
+    padding-left: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.sport-buttons > * {
+    padding: 20px;
+
 }
 
-.App-link {
-  color: #61dafb;
+.link {
+    text-decoration: none;
+    color: black;
+    max-height: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.sport-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.sportPage {
+    display: flex;
+}
+
+img {
+    max-width: 750px;
+    max-height: 750px;
+}
+
+.content-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.icon-left {
+    cursor: pointer;
+    padding-right: 15px;
+}
+
+.icon-right {
+    cursor: pointer;
+    padding-left: 15px;
 }

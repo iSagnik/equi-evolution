@@ -1,10 +1,15 @@
+import { Link } from "react-router-dom";
+import Share from "./Share";
+
 const Header = ({ isSportPage }) => {
   return (
     <>
       <header>
-        <span>EquiEvolution</span>
-        {isSportPage === true && <span>change sport</span>}
-        <span>share</span>
+        <div className="header-center">EquiEvolution</div>
+        <div className="header-options">
+          {isSportPage === true && <Link className="link" to="/">change sport</Link>}
+          <Share />
+        </div>
       </header>
     </>
   );

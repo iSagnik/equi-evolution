@@ -1,20 +1,25 @@
-import Header from "./components/Header";
+import Header from "../components/Header";
+import { Link } from "react-router-dom";
 
 const Home = ({ sports }) => {
   return (
     <>
       <Header isSportPage={false} />
       <div className="Home">
-        <h1>Welcome!</h1>
-        <h3>Select a sport!</h3>
+        <h2>Welcome!</h2>
+        <h3>Select a sport</h3>
         <br />
-        {sports &&
-          sports.map((sport, idx) => {
-            const url = "/sportPage/" + sport.replace(" ", "-");
-            <Link to={url} key={idx} className="sport-button">
-              sport
-            </Link>;
-          })}
+        <div className="sport-buttons">
+          {sports &&
+            sports.map((sport, idx) => {
+              const url = "/sportPage/" + sport.replace(" ", "-");
+              return (
+                <Link to={url} className="sport-link link" key={idx}>
+                  {sport}
+                </Link>
+              );
+            })}
+        </div>
       </div>
     </>
   );
