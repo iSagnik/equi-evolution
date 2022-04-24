@@ -1,0 +1,78 @@
+{
+  "title": "The evolution of tennis racquets",
+  "source": "source-here",
+  "dataPoints": [
+    {
+      "image": "tennis_1.jpg",
+      "caption": "The first racquet",
+      "year": "1874",
+      "paras": [
+        "The very first tennis racket was made in 1874 in London by Major Walter C. Wingfield. The racket was the first one made of solid wood, meaning McEnroe could have done some serious damage back in the day."
+      ]
+    },
+    {
+      "image": "tennis_2.jpg",
+      "caption": "Introducing Laminated Wood",
+      "year": "1947",
+      "paras": [
+        "Advances in laminating technology resulted in the first tennis racket made of laminated wood in 1947. This was a game-changer."
+      ]
+    },
+    {
+      "image": "tennis_3.jpg",
+      "caption": "Wilson Gets in the Game",
+      "year": "1968",
+      "paras": [
+        "In 1968 Wilson introduces the T2000, the first steel racket. The racket gained legendary status after tennis great Jimmy Connors adopted it as his own."
+      ]
+    },
+    {
+      "image": "tennis_4.jpg",
+      "caption": "Dunlop Domination",
+      "year": "1980",
+      "paras": [
+        "By the 1980, wooden rackets became obsolete. Instead, brands like Dunlop and Prince switched over to graphite frames. World class tennis players John McEnroe and Steffi Graf dominated the court with the Dunlop Max200G."
+      ]
+    },
+    {
+      "image": "tennis_5.jpg",
+      "caption": "The Beginning of the Wilson Era",
+      "year": "1983",
+      "paras": [
+        "In 1983, Wilson introduced the classic Pro Staff, its answer to the Dunlop Max 200G and the Prince Graphite. A racket with tremendous potential, the Pro Staff became the top choice for American great Pete Sampras and others pros."
+      ]
+    },
+    {
+      "image": "tennis_6.jpg",
+      "caption": "Head Radical",
+      "year": "1993",
+      "paras": [
+        "With tennis peaking in popularity, Head developed the Radical tennis racket in 1993 for Andre Agassi to match his on-court style. Agassi won 37 titles with the supreme racket, including a gold medal in Atlanta."
+      ]
+    },
+    {
+      "image": "tennis_7.jpg",
+      "caption": "Babolat Pure Drive",
+      "year": "2003",
+      "paras": [
+        "Andy Roddick won the 2003 US Open with a Babolat Pure Drive tennis racket, putting the brand on the map. The ultra-light racket helped Roddick develop a monster serve and other great overall skills."
+      ]
+    },
+    {
+      "image": "tennis_8.jpg",
+      "caption": "Federer's Winning Streak with Wilson",
+      "year": "2002 - 2012",
+      "paras": [
+        "Over the past decade, no player has been more dominant in tennis than Roger Federer. As the face of Wilson, Federer used his signature K Factor racket to win 17 major titles."
+      ]
+    },
+    {
+      "image": "tennis_8.jpg",
+      "caption": "Sagnik's Babolat Pure Aero",
+      "year": "2018",
+      "paras": [
+        "La Decima special edition babolat racquet celebrating Rafael Nadal's 10th French Open title in tennis. I've had great fun with this racquet"
+      ]
+    }
+  ]
+}

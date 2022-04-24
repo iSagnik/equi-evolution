@@ -34,15 +34,13 @@ header {
 .sport-wrapper {
     max-width: 800px;
     margin: 0 auto;
-}
-
-.sportPage {
     display: flex;
 }
 
 img {
-    max-width: 750px;
-    max-height: 750px;
+    width: 600px;
+    height: 550px;
+    object-fit: scale-down;
 }
 
 .content-wrapper {
