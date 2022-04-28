@@ -1,6 +1,7 @@
 {
   "name": "equi-evolution",
   "version": "0.1.0",
+  "homepage": "https://isagnik.github.io/equi-evolution/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
