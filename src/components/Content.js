@@ -22,8 +22,6 @@ const Content = ({ data, curPos, path }) => {
                 })}
             </div>
           </div>
-
-          <div className="source">{data.source}</div>
         </div>
       )}
     </>

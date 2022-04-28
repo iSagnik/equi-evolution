@@ -1,0 +1,71 @@
+{
+  "title": "The evolution of Soccer balls",
+  "dataPoints": [
+    {
+      "image": "football_1.jpg",
+      "caption": "Valcanized Rubber ball",
+      "year": "1800",
+      "paras": [
+        "In 1836 Charles Goodyear patented vulcanized rubber. Prior to this, balls were dependant on the size and shape of the pig’s bladder. The more irregular the bladder, the more unpredictable the behavior of the ball was when kicked. However; it would not be until the twentieth century until most balls were made with rubber bladders."
+      ]
+    },
+    {
+      "image": "football_2.jpg",
+      "caption": "Match Ball used in the FA Cup Final of 1893",
+      "year": "1893",
+      "paras": [
+        "Mass production of soccer balls started as a direct consequence of the English Football League that was founded in 1888.  Mitre and Thomlinson’s of Glasgow were two of the first companies to mass produce soccer balls during that time."
+      ]
+    },
+    {
+      "image": "football_3.jpg",
+      "caption": "1930 World Cup Final ball   ",
+      "year": "1930",
+      "paras": [
+        "During World War II there were further production enhancements. The addition of a carcass made of strong cloths between the bladder and outer cover made controlling the shape easier, provided damping, and made the ball stronger.",
+        "Water absorption was improved by using synthetic paints and other non-porous materials to coat the leather. Also, a new type of valve was invented that eliminated the laced slit on soccer balls."
+      ]
+    },
+    {
+      "image": "football_4.jpg",
+      "caption": "White Rubber Balls",
+      "year": "1930",
+      "paras": [
+        "In 1951 a white ball was first permitted to help spectators see the ball easier with the advent of floodlights. White soccer balls were un-officially used as early as 1892. The leather was simply white washed to produce the white ball."
+      ]
+    },
+    {
+      "image": "football_5.jpg",
+      "caption": "Synthetic ball",
+      "year": "1963",
+      "paras": [
+        "It was not until the 1960’s that the first totally synthetic ball was produced. But it was not until the late 1980’s that synthetic leather totally replaced the leather ball. Up until then, it was felt that leather soccer balls provided more of a consistent flight and bounce.  Synthetics used in today’s soccer balls emulate the cell structure and quality of leather with less water absorption."
+      ]
+    },
+    {
+      "image": "football_6.jpg",
+      "caption": "Cup football",
+      "year": "1970 - 1980",
+      "paras": [
+        "Adidas introduced a new ball which had rubber inlaid over the seams to prevent water from seeping through. The first ball with water-resistant qualities. General wear from kicking however meant the rubber began to wear after a short time and needed to be replaced during the game. The last genuine leather world cup ball."
+      ]
+    },
+    {
+      "image": "football_7.jpg",
+      "caption": "Adidas Tricolore",
+      "year": "1992",
+      "paras": [
+        "By 1998, FIFA World Cup France was played with a ball which sported the French red-white-blue tri-color.",
+        "A complete departure from the old traditional black and white pattern.  The first official World Cup colored soccer ball.  The TRICOLORE used underglass print technology with a thin layer of syntactic foam."
+      ]
+    },
+    {
+      "image": "football_8.jpg",
+      "caption": "Adidas Brazuka",
+      "year": "2014",
+      "paras": [
+        "Brazuca was confirmed as the match ball name after a public vote in Brazil, participated in by more than one million soccer fans in the host country."
+      ]
+    }
+  ]
+}

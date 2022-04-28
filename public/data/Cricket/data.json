@@ -1,0 +1,45 @@
+{
+  "title": "The evolution of Cricket bats",
+  "dataPoints": [
+    {
+      "image": "crick_1.jpg",
+      "caption": "Hockey Stick like bats",
+      "year": "1600",
+      "paras": [
+        "In the early 1600s, cricket had always been underarm and slow, so the bats were similar to modern hockey sticks."
+      ]
+    },
+    {
+      "image": "crick_2.jpg",
+      "caption": "Flat face bat",
+      "year": "1700 - 1800",
+      "paras": [
+        "In the late 1700s and early 1800s, as the bowlers were allowed to bowl overarm, the shape of the bat changed drastically and it became somewhat similar to a rectangle with a relatively small width."
+      ]
+    },
+    {
+      "image": "crick_3.jpg",
+      "caption": "Shoulder less bat by Slazenger",
+      "year": "1960",
+      "paras": [
+        "Slazenger, the bat manufacturer, was the first to manufacture a shoulderless bat, which helped in proper weight distribution. This was in the 1960s."
+      ]
+    },
+    {
+      "image": "crick_4.jpg",
+      "caption": "Carbon fiber polymer bat",
+      "year": "2005",
+      "paras": [
+        "In 2005, Kookaburra launched a bat that had carbon fiber-reinforced polymer. It increased the life of the bat. Since the late 2010s. there hasn’t been much change in the shape of a bat, they have become more standard now."
+      ]
+    },
+    {
+      "image": "crick_5.jpg",
+      "caption": "Mongoose Bat",
+      "year": "2009",
+      "paras": [
+        "In 2009, the Mongoose bat was launched. It had a short blade and a very long handle. Its handle was 43% longer than the usual bat and the blade was 33% smaller than the usual bat. It was famously used by Mathew Hayden in the IPL"
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Home = ({ sports }) => {
   return (
     <>
-      <Header isSportPage={false} />
+      <Header/>
       <div className="Home">
         <h2>Welcome!</h2>
         <h3>Select a sport</h3>

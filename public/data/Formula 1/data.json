@@ -1,0 +1,71 @@
+{
+  "title": "The evolution of Formula 1 steering",
+  "dataPoints": [
+    {
+      "image": "f1_1.jpg",
+      "caption": "Stirling Moss",
+      "year": "1957",
+      "paras": [
+        "Early wheels from the 1950s were large diameter up (in some cases over 400mm).",
+        "Gloves were worn to avoid splinters. There was no power steering or packaging constraints necessitating small diameter wheels, but this was about to change."
+      ]
+    },
+    {
+      "image": "f1_2.jpg",
+      "caption": "John Surtees",
+      "year": "1967",
+      "paras": [
+        "The 1960s saw the introduction of the rear/mid engined Formula 1 cars.",
+        "Gloves were worn to avoid splinters. There was no power steering or packaging constraints necessitating small diameter wheels, but this was about to change.",
+        "Smaller diameter wheels were introduced, and this time they were dedicated motorsport designs. Wheel rims became much thicker and the use of leather gave the driver much better grip. "
+      ]
+    },
+    {
+      "image": "f1_3.jpg",
+      "caption": "Ayrton Senna",
+      "year": "1984",
+      "paras": [
+        " Data logging, digital displays and in 1989 with the introduction of the John Barnard designed Ferrari 640, sequential paddle shift gearboxes.",
+        "Most F1 cars of the 1980s had evolved to use buttons on the steering wheel for either communicating with their team in the pits, drinking or other basic functions."
+      ]
+    },
+    {
+      "image": "f1_4.jpg",
+      "caption": "David Brabham",
+      "year": "1994",
+      "paras": [
+        "Drivers were now changing gears via paddles behind their steering wheels or buttons under their thumbs. The shape of the steering wheel was now evolving even further due to the even tighter nature of cockpits and the never ending quest for better aerodynamic efficiency.",
+        "The top and bottom of the steering wheels were starting to flatten out or disappear completely. Carbon fibre was now starting to appear in the construction of the wheels as well as the traditional materials.",
+        "Drivers were able to activate pit lane speed limiters, change engine mapping and now even the clutch via a third paddle. For the first time the drivers were using just 2 foot pedals. Digital displays and LED warning lights were beginning to to be incorporated."
+      ]
+    },
+    {
+      "image": "f1_5.jpg",
+      "caption": "Michael Shumacher",
+      "year": "1996",
+      "paras": [
+        "2000's steering wheels were becoming immensely complex featuring buttons and rotary switches as well as digital displays and warning lights. The driver was not only now getting feedback through the wheel but from the wheel.",
+        "The driver was able to adjust differential settings, engine mapping, engine braking, brake balance and scroll through various pages of data.",
+        "Steering wheels were costing up to $50,000 to manufacture and were being tailored to individual drivers with custom colours, functions and rim/grip shape."
+      ]
+    },
+    {
+      "image": "f1_6.jpg",
+      "caption": "Juan Pablo Montoya",
+      "year": "2001",
+      "paras": [
+        "With costs escalating some teams moved away from the digital displays (now a standardised component) directly embedded in the wheel and used the wheel for control aspects only.",
+        "Drivers are now able to effectively reboot the software that drives their cars and help problem solve while driving with their teams often heard giving the driver instructions.",
+        "Materials of these modern day wheels consist of carbon fibre, 3D printed titanium and customised rubber grips tailored to each individual driver."
+      ]
+    },
+    {
+      "image": "f1_7.jpg",
+      "caption": "Ferrai F1 Steering Wheel ",
+      "year": "2014",
+      "paras": [
+        "F1 steering wheels continue to be more and more complex with the driver now being able to shange gears, switch driving modes, toggle engine modes, adjust car machanics and dynamics all with their finger during a race."
+      ]
+    }
+  ]
+}

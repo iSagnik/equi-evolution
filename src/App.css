@@ -12,17 +12,10 @@ header {
     margin-right: 150px;
     right:0;
     top: 0;
-    display: flex;
-    justify-content: space-between;
-}
-
-.header-options > * {
-    padding-left: 10px;
 }
 
 .sport-buttons > * {
     padding: 20px;
-
 }
 
 .link {
@@ -38,8 +31,8 @@ header {
 }
 
 img {
-    width: 600px;
-    height: 550px;
+    max-width: 600px;
+    max-height: 550px;
     object-fit: scale-down;
 }
 

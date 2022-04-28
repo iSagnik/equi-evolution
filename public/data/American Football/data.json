@@ -1,0 +1,56 @@
+{
+  "title": "The evolution of football helmets",
+  "dataPoints": [
+    {
+      "image": "am_f_1.jpg",
+      "caption": "The first helmet",
+      "year": "1900",
+      "paras": [
+        "The first use of football headgear dates back to 1869 when George “Rose” Barclay, the Lafayette College halfback, started to use straps and earpieces to protect his ears. ",
+        "There is no documentation on who actually invented the football helmet. However, some sources credit James Naismith, while others credit U.S. Naval Academy Midshipman, Joseph M. Reeves, who had a protective headpiece made out of moleskin in the 1893 Army-Navy game."
+      ]
+    },
+    {
+      "image": "am_f_2.jpg",
+      "caption": "Daytona Triangles helmet",
+      "year": "1928",
+      "paras": [
+        "Helmets were widely used in football during the 1920s. These helmets consisted of leather with some padding on the inside but provided little protection. While the helmet was developed to protect the head, these helmets lacked face mask and as a result, injuries were still common."
+      ]
+    },
+    {
+      "image": "am_f_3.jpg",
+      "caption": "Detroit Lions Plastic Helmet",
+      "year": "1950",
+      "paras": [
+        "This is an early version of the platsic helmet whichi was invented in 1939 but due to platsic shortages was not used in the NFL until after World War",
+        "In the mid-1940s, leather helmets were required in the NFL. It wasn’t until 1949 that the NFL officially adopted the plastic helmet, ending the leather helmet era. By the mid-50’s, single face bars were added to the helmets, and the first appearance of the radio helmet was introduced."
+      ]
+    },
+    {
+      "image": "am_f_4.jpg",
+      "caption": "Chicago Bears Helmet",
+      "year": "1960",
+      "paras": [
+        "Through the 60’s, and 70’s, Riddell continued to innovate and improve the football helmet protection and design. By the 1980s, Riddell had become an icon with its classic helmet silhouette with a circular earhole, clean face mask lines, and rounded dome."
+      ]
+    },
+    {
+      "image": "am_f_5.jpg",
+      "caption": "Buffalo Bulls Modern helmet",
+      "year": "1990",
+      "paras": [
+        "Space age rigid polycarbonate alloy plastic helmets and vinyl-coated steel alloy face masks became standards in the 1980s and 1990s."
+      ]
+    },
+    {
+      "image": "am_f_6.jpg",
+      "caption": "Modern Detroit Lions Helmet",
+      "year": "2002",
+      "paras": [
+        "In 2002, in response to the study of head injuries, Riddell developed a new helmet designed called the Revolution. The revolution was the first significant remodel in 25 years, and as of 2007, Riddell has sold 750,000 helmets.",
+        "In 2007, due to the demand for a safer football helmet, Schutt Sports announced the arrival of a next-generation helmet, the Schutt ION 4D."
+      ]
+    }
+  ]
+}

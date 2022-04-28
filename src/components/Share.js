@@ -19,7 +19,7 @@ const Share = () => {
   };
 
   return (
-    <div>
+    <div className="header-options">
       <div id="myBtn" onClick={handleShareClick}>
         share
       </div>
