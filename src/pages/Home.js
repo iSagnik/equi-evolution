@@ -1,22 +1,25 @@
 import Header from "../components/Header";
 import { Link } from "react-router-dom";
+import bgVideo from "../videos/bgVideo.mp4";
 
 const Home = ({ sports }) => {
   return (
     <>
-      <Header/>
-      <div className="Home">
-        <h2>Welcome!</h2>
-        <h3>Select a sport</h3>
-        <br />
+      <video autoPlay muted loop id="myVideo">
+        <source src={bgVideo} type="video/mp4" />
+      </video>
+      <Header />
+      <div className="home">
         <div className="sport-buttons">
           {sports &&
             sports.map((sport, idx) => {
               const url = "/sportPage/" + sport.replace(" ", "-");
               return (
-                <Link to={url} className="sport-link link" key={idx}>
-                  {sport}
-                </Link>
+                <div key={idx}>
+                  <Link to={url} className="sport-link link" key={idx}>
+                    {sport}
+                  </Link>
+                </div>
               );
             })}
         </div>

@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import Header from "../components/Header";
 import Content from "../components/Content";
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -29,9 +28,8 @@ const SportPage = ({ sport }) => {
   };
   return (
     <>
-      <Header isSportPage={true} />
       <div className="sport-wrapper">
-        <Link className="link" to="/">
+        <Link className="link back" to="/">
           back
         </Link>
         <div className="content-wrapper">

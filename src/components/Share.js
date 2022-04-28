@@ -1,4 +1,5 @@
-import "../modal.css";
+import QRCode from "react-qr-code";
+import "../styles/modal.css";
 
 const Share = () => {
   const handleShareClick = () => {
@@ -18,9 +19,14 @@ const Share = () => {
     }
   };
 
+  const handleCopy = () => {
+    navigator.clipboard.writeText(window.location.href);
+    alert("Link Copied: " + window.location.href)
+  }
+
   return (
     <div className="header-options">
-      <div id="myBtn" onClick={handleShareClick}>
+      <div id="myBtn" className="link" onClick={handleShareClick}>
         share
       </div>
 
@@ -29,8 +35,14 @@ const Share = () => {
           <span className="close" onClick={handleXClick}>
             &times;
           </span>
-          <div>QR Code</div>
-          <div>Copy Link</div>
+          <div style={{ background: "white", padding: "16px" }}>
+            <QRCode value={window.location.href} />
+          </div>
+          <div
+            onClick={handleCopy}
+          >
+            <b style={{ cursor: "pointer" }}>Copy Link</b>
+          </div>
         </div>
       </div>
     </div>
