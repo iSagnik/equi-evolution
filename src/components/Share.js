@@ -41,7 +41,7 @@ const Share = () => {
           <div
             onClick={handleCopy}
           >
-            <b style={{ cursor: "pointer" }}>Copy Link</b>
+            <b style={{ cursor: "pointer" }}>Copy Link: {window.location.href}</b>
           </div>
         </div>
       </div>
