@@ -12,7 +12,7 @@ const App = () => {
     "Cricket",
   ];
   return (
-    <Router>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className="App">
           <Routes>
             <Route exact path="/" element={<Home sports={sports} />} />
@@ -29,7 +29,7 @@ const App = () => {
               })}
           </Routes>
       </div>
-    </Router>
+    </BrowserRouter>
   );
 };
 
