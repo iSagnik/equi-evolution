@@ -1,7 +1,6 @@
 import Header from "../components/Header";
 import { Link } from "react-router-dom";
 import bgVideo from "../videos/bgVideo.mp4";
-
 const Home = ({ sports }) => {
   return (
     <>

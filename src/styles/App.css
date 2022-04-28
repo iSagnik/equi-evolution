@@ -12,7 +12,7 @@ header {
 }
 .header-options {
     position:absolute;
-    margin-right: 150px;
+    margin-right: 100px;
     right:0;
     top: 0;
     background: rgba(0, 0, 0, 0.5);
@@ -20,7 +20,18 @@ header {
     padding: 8px;
 }
 
+@media only screen and (max-width: 750px) {
+    .header-options {
+        margin-right: 15px;
+    }
+  }
 
+  @media only screen and (max-width: 400px) {
+    .header-options {
+        position: relative;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+  }
 
 .home {
     position: absolute;
